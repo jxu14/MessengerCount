@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/MessengerCount.dir/dm.cpp.o CMakeFiles/MessengerCount.dir/groupMessage.cpp.o CMakeFiles/MessengerCount.dir/snapchat.cpp.o  -o MessengerCount 

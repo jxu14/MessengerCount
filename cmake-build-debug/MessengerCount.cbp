@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="MessengerCount"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Group_Message">
+				<Option output="/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Group_Message" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Makefile&quot;  VERBOSE=1 Group_Message"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Group_Message/fast">
+				<Option output="/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Group_Message" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Makefile&quot;  VERBOSE=1 Group_Message/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MessengerCount">
+				<Option output="/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/MessengerCount" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Makefile&quot;  VERBOSE=1 MessengerCount"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MessengerCount/fast">
+				<Option output="/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/MessengerCount" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Makefile&quot;  VERBOSE=1 MessengerCount/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Snapchat">
+				<Option output="/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Snapchat" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Makefile&quot;  VERBOSE=1 Snapchat"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Snapchat/fast">
+				<Option output="/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Snapchat" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Makefile&quot;  VERBOSE=1 Snapchat/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DM">
+				<Option output="/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/DM" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Makefile&quot;  VERBOSE=1 DM"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DM/fast">
+				<Option output="/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/DM" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Makefile&quot;  VERBOSE=1 DM/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/jeremyxu/CLionProjects/MessengerCount/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/jeremyxu/CLionProjects/MessengerCount/dm.cpp">
+			<Option target="MessengerCount"/>
+			<Option target="DM"/>
+		</Unit>
+		<Unit filename="/Users/jeremyxu/CLionProjects/MessengerCount/groupMessage.cpp">
+			<Option target="Group_Message"/>
+			<Option target="MessengerCount"/>
+		</Unit>
+		<Unit filename="/Users/jeremyxu/CLionProjects/MessengerCount/snapchat.cpp">
+			<Option target="MessengerCount"/>
+			<Option target="Snapchat"/>
+		</Unit>
+		<Unit filename="/Users/jeremyxu/CLionProjects/MessengerCount/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

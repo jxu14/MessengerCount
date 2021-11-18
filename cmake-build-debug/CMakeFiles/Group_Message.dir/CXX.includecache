@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jeremyxu/CLionProjects/MessengerCount/groupMessage.cpp
+iostream
+-
+stdexcept
+-
+fstream
+-
+string
+-
+cstdlib
+-
+map
+-
+

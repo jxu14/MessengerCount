@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jeremyxu/CLionProjects/MessengerCount/dm.cpp
+iostream
+-
+stdexcept
+-
+fstream
+-
+string
+-
+
+/Users/jeremyxu/CLionProjects/MessengerCount/snapchat.cpp
+iostream
+-
+stdexcept
+-
+fstream
+-
+string
+-
+
